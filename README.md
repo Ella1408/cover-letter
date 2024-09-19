@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/fd911539-caf7-42f4-86c4-bf5aa5a55a83 <br/>
+https://github.com/user-attachments/assets/fd911539-caf7-42f4-86c4-bf5aa5a55a83 
 
 :musical_note: *Every move your users make, every song they play, every step they take—I'll be optimizing it.* :musical_note: <br/>
 
@@ -11,4 +11,4 @@ In my role at Viviotex, I deployed and refined large language models like Llama,
 
 Like a true ML model, I learn and iterate constantly—driving optimization, testing hypotheses, and fine-tuning solutions until they hit just the right note. Together, I believe we can push Spotify's user engagement and growth to the next level.
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fcheers-champagne-hand-drawn-lettering-illustration-illustration-isolated-white-background_11730116.htm&psig=AOvVaw389zvDJ__LJtJbqjsY1dfy&ust=1726833628010000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCK_9v6zogDFQAAAAAdAAAAABAE)
+![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fcheers-champagne-hand-drawn-lettering-illustration-illustration-isolated-white-background_11730116.htm&psig=AOvVaw389zvDJ__LJtJbqjsY1dfy&ust=1726833628010000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCK_9v6zogDFQAAAAAdAAAAABAE)
